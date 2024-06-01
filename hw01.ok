@@ -1,5 +1,5 @@
 {
-    "name": "Homework 1",
+    "name": "Homework 1 (Test)",
     "endpoint": "cal/cs61a/fa20/hw01",
     "src": [
         "hw01.py"
